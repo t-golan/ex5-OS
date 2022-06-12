@@ -1,0 +1,3 @@
+/Users/tamir/semesterB/C/OS_ex5/cmake-build-debug/CMakeFiles/OS_ex5.dir
+/Users/tamir/semesterB/C/OS_ex5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tamir/semesterB/C/OS_ex5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
